@@ -1,5 +1,5 @@
 <?
-
+$NewVariable = '';
 $FILENAME = ""; //SET YOUR FILE HERE
 
 if (!$FILENAME || !file_exists($FILENAME)) {
